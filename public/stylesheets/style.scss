@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: RGB(240, 143, 236);
+}
+
+.home{
+  text-align: center;
+  margin: 0 auto;
+  padding-right: 30px;
+  .navbar{
+    ul{
+      list-style-type: none;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+    }
+    a{
+      text-decoration: none;
+    }
+  }
+}
