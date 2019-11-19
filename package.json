@@ -26,6 +26,7 @@
     "session": "^0.1.0"
   },
   "devDependencies": {
+    "gh-pages": "^2.1.1",
     "nodemon": "^1.12.1"
   }
 }
